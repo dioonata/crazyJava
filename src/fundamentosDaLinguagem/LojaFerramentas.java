@@ -23,6 +23,7 @@ public class LojaFerramentas {
                     }
                 }
             }
+
         } while (codigoProduto != 0);
     }
 
